@@ -71,3 +71,6 @@ Each node with missing credentials will show a warning – open it and select or
 5. Check your output node (e.g., Google Drive or Sheet) for **3 video URLs**.  
 
 Use those URLs or downloaded MP4s as the 3 required ad variations.
+
+
+<img width="1061" height="491" alt="image" src="https://github.com/user-attachments/assets/60983dec-fbcf-45c7-b99d-56a0b19654c4" />
